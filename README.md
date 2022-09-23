@@ -28,7 +28,6 @@ https://forum.df2.ru/index.php?showtopic=37819&mode=linear
 
 
 
-
 # Англоязычные ресурсы
 Техническая информация по игре, запуск, фиксы и прочее. <br>
 https://www.pcgamingwiki.com/wiki/Heroes_of_Might_and_Magic_II
@@ -54,6 +53,9 @@ http://heroescommunity.com/viewthread.php3?TID=40698
 # Файлы
 Образ диска Героев для Mac и системные требования Mac-версии. <br>
 https://www.macintoshrepository.org/4821-heroes-of-might-and-magic-ii-the-succession-wars
+
+Движок fheroes2 позвляет поиграть в героев на современных ОС. Имеются некоторые улучшения интерфейса и абсолютно другой ИИ, но в целом очень близко к оригиналу. Использует ресурсы оригинала, нужна копия игры для запуска. <br>
+https://github.com/ihhub/fheroes2/blob/master/docs/INSTALL.md
 
 # Не открылось
 Не открывается, но там был мод на 2 цивилизацию, заменяющий города и юниты на геройские. <br>
