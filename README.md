@@ -43,7 +43,7 @@ https://the-spoiler.com/STRATEGY/New.world.computing/heroes.of.might.and.magic2.
 Справочник по вторым героям, англоязычный. <br>
 http://www.heroesofmightandmagic.com/heroes2/heroesofmightandmagic2ii.shtml
 
-Раздел вторых героев на форуме heroescommunity
+Раздел вторых героев на форуме heroescommunity. <br>
 http://heroescommunity.com/forumdisplay.php3?FID=6
 
 * Ветка на англоязычном форуме со списком CD релизов всех героев. <br>
