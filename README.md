@@ -61,12 +61,18 @@ http://heroescommunity.com/viewthread.php3?TID=40698
 
 # Файлы
 GLWrapper - один из способов запустить оригинальную игру на современных ОС. (второй способ - DOSBox, а третий у меня так и не заработал)
-Автор удалил со своего сайта все нароботки, поэтому пробуем тут и тут. <br>
+Автор удалил со своего сайта все нароботки, поэтому пробуем тут и тут выложили версии враперов скаченных с сайта 2-фев-2022. <br>
 https://www.old-games.ru/forum/threads/serija-igr-heroes-of-might-and-magic-gl-wrapper-patches.80503/page-33#post-1799769
-https://www.gog.com/forum/heroes_of_might_and_magic_series/graphic_gl_wrapper_for_all_heroes_heroes_of_might_and_magic_1_2_3_4_and_chronicles_for_better_wo/post178 - версии враперов скаченных с сайта 2-фев-2022
+https://www.gog.com/forum/heroes_of_might_and_magic_series/graphic_gl_wrapper_for_all_heroes_heroes_of_might_and_magic_1_2_3_4_and_chronicles_for_better_wo/post178
 
-Движок fheroes2 позвляет поиграть в героев на современных ОС. Имеются некоторые улучшения интерфейса и абсолютно другой ИИ, но в целом очень близко к оригиналу. Использует ресурсы оригинала, нужна копия игры для запуска. <br>
+Движок fheroes2 позвляет поиграть в героев на современных ОС. Имеются некоторые улучшения интерфейса и абсолютно другой ИИ, но в целом очень близко к оригиналу. Использует ресурсы оригинала, нужна копия игры для запуска. Инструкция по второй ссылке. <br>
+https://github.com/ihhub/fheroes2
 https://github.com/ihhub/fheroes2/blob/master/docs/INSTALL.md
+
+netheroes2 Форк fheroes2 с поддержкой сетевой игры. <br>
+https://heroes2.online/
+https://bitbucket.org/fheroes2/netheroes2/src/master/ - клиент
+https://bitbucket.org/fheroes2/heroes-server/src/master/ - сервер
 
 Страница двойки на moddb (несколько патчей, новогодний мод и две кампании)
 https://www.moddb.com/games/heroes-of-might-and-magic-ii-the-succession-wars/downloads
